@@ -2,8 +2,8 @@
 layout: post
 title: "ProteinDF workshop 2014"
 description: ""
-category: 
-tags: []
+category: ProteinDF
+tags: [ProteinDF, Workshop]
 ---
 {% include JB/setup %}
 
