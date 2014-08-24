@@ -10,8 +10,8 @@ description: ""
 
 ![ProteinDF logo](img/PDFLOGO.jpg "ProteinDF logo")
 
-## About
-ProteinDF is a free and open source quantum chemistry calculation software package.
+## Abount
+ProteinDF はオープンソースの量子化学計算ソフトウェアパッケージです。
 
 ## News
 <ul class="posts">
@@ -20,11 +20,9 @@ ProteinDF is a free and open source quantum chemistry calculation software packa
 </ul>
 
 ## License
+ProteinDFはGNU GPL v3に基づいて配布されます。
+ソースコードはGithubから取得できます。
 
-ProteinDF is licensed under the GNU GPL v3.
-The source code can be found on the Github.
-
-## Bugs
-
-If you find any bugs, please let me know.
-And if you have a suggestion for improvement, please let me know.
+## バグ・要望
+バグを発見された場合はご連絡ください。
+また機能追加などのご要望もお知らせ下さい。
