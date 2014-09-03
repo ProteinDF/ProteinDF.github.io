@@ -26,14 +26,18 @@ ProteinDF is a free and open source quantum chemistry calculation software packa
 [https://github.com/ProteinDF/ProteinDF](https://github.com/ProteinDF/ProteinDF)
 
 ### ProteinDF_bridge
-[https://github.com/ProteinDF/ProteinDF_bridge](https://github.com/ProteinDF_bridge)
+[https://github.com/ProteinDF/ProteinDF_bridge](https://github.com/ProteinDF/ProteinDF_bridge)
 
 ### ProteinDF_pytools
-[https://github.com/ProteinDF/ProteinDF_pytools](https://github.com/ProteinDF_pytools)
+[https://github.com/ProteinDF/ProteinDF_pytools](https://github.com/ProteinDF/ProteinDF_pytools)
 
 ### QCLObot
-[https://github.com/ProteinDF/QCLObot](https://github.com/QCLObot)
+[https://github.com/ProteinDF/QCLObot](https://github.com/ProteinDF/QCLObot)
 
+
+## manual
+
+[ProteinDF user manual (ja)](http://proteindf.github.io/ProteinDF_userman/)  
 
 
 ## Cite
