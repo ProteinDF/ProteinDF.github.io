@@ -37,7 +37,7 @@ ProteinDF is a free and open source quantum chemistry calculation software packa
 
 ## manual
 
-[ProteinDF user manual (ja)](http://proteindf.github.io/ProteinDF_userman/)  
+[ProteinDF user manual)](http://proteindf.github.io/ProteinDF_userman/en/index.html)  
 
 
 ## Cite
