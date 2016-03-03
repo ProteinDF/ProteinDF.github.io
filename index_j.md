@@ -36,8 +36,8 @@ ProteinDF はオープンソースの量子化学計算ソフトウェアパッ�
 
 ## manual
 
-[ProteinDF user manual](http://proteindf.github.io/ProteinDF_userman/ja/index.html)
-[QCLObot user manual](http://proteindf.github.io/QCLObot/)
+* [ProteinDF user manual](http://proteindf.github.io/ProteinDF_userman/ja/index.html)
+* [QCLObot user manual](http://proteindf.github.io/QCLObot/)
 
 ## Cite
 
